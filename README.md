@@ -1,5 +1,5 @@
 # Object-Detection Project
-Mini Project-V Semester-Session 2021-2022
+Mini Project||V Semester||Session 2021-2022||GLA University
 
 Submitted to :
 Mr. Mandeep Singh
